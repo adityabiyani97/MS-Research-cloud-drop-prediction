@@ -8,4 +8,6 @@ The second file contains python scrip that using cartopy library along with othe
 
 Additionally, some plot images are also added to substantiate the research undertaken. 
 
-The repository will be updated with the final report of my research once, it is approved by the Department of Chemical Engineering, CMU and my mentor, Prof. Hamish Gordon. 
+Acknowledgement: 
+1) ARM: https://www.arm.gov/working-with-arm/acknowledging-arm
+2) Dr. Hamish Gordon: https://engineering.cmu.edu/accelerator/research/faculty/gordon-group.html
